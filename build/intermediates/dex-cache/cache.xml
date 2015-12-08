@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wyndell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-c1840ffc938646839dfecd19af74d832cc892e43.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/pre-dexed/debug/classes-5d8f7fd167c08965119efcf15b575a1d71442ded.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/exploded-aar/33.libraries/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1df1702fd2e1e0c07bf168c25779f7e1cf5d4558">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/pre-dexed/debug/classes-206f1bf612e2cc985a6bbff0a6bbf1018e2953f8.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/pre-dexed/debug/classes-04d42bbdfb6c899d994ff0d43fc82db87a52aac9.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/33/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6c9dbb872d261b70dca235ac2360911d61206023.jar" />
+    </item>
+
+</items>
