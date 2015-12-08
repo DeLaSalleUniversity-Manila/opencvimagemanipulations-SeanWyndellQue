@@ -1,4 +1,4 @@
-package com.example.jerald.opencvimagemanipulation;
+package com.example.wynsean.opencvimagemanipulation;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
